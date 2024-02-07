@@ -1,4 +1,4 @@
 # Exercise Set 1 for the Financial Markets Course
 testing
-Commit with your solutions.
-testing testing
+Commit with your solutions. \\
+Testing
