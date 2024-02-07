@@ -4,12 +4,12 @@ Commit with your solutions.
 
 Prove the following: 
 
-(i) \prec is both irreflexive (x \prec x never holds) and transitive 
+(i) $\prec$ is both irreflexive ($x \prec x$ never holds) and transitive 
 
 To prove this proposition the relation \succ is irreflexive and transitive, we'll follow the same approach as before: 
 
 \begin{itemize}
-\item Irreflexivity: We need to show that $x \nsucc x$ for all $x$ 
+\item Irreflexivity: We need to show that $x \nsucc x$ for all $x$ \\
 \item Transitivity: We must also demonstrate that if $x \succ y$ and $y \succ z$, then $x \succ z$
 \end(itemize)
 
