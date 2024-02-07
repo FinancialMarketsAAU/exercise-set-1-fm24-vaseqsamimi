@@ -11,10 +11,11 @@ To prove this proposition the relation \succ is irreflexive and transitive, we'l
 \begin{itemize}
 \item Irreflexivity: We need to show that $x \nsucc x$ for all $x$ 
 \item Transitivity: We must also demonstrate that if $x \succ y$ and $y \succ z$, then $x \succ z$
+\end(itemize)
 
-Then for irreflexivity assume there exists an $x$ such that $x \succ x$. This would imply that $x$ is strictly better than itself, which is a contradiction for the definition of irrefexivity. Therefor $x \succ x never holds$. 
+Then for irreflexivity assume there exists an $x$ such that $x \succ x$. This would imply that $x$ is strictly better than itself, which is a contradiction for the definition of irrefexivity. Therefor $x \succ x$ never holds. 
 
-For the transitivity. Suppose $x \succ y$ and $y \succz z$. then by the definition of the strong perfered, $x$ is strickly better than $y$, and $y$ is strickly better than $z$. To prove transitivity, we need to show that $x$ is strickly better than $z$. Since $x \succ y$ and $y \succ z$, by the definition of transitivity, we can conclude that $x \succ z$. 
+For the transitivity. Suppose $x \succ y$ and $y \succ z$. then by the definition of the strong perfered, $x$ is strickly better than $y$, and $y$ is strickly better than $z$. To prove transitivity, we need to show that $x$ is strickly better than $z$. Since $x \succ y$ and $y \succ z$, by the definition of transitivity, we can conclude that $x \succ z$. 
 
 Therefore, $\succ$ is both irreflexive and transitive. 
 
