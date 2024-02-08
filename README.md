@@ -43,9 +43,9 @@ Let's consider the cases:
 
 1. If $x_1 \leq y_1$, and $y_1 \leq z_1$, then $(x_1, x_2 \succsim (z_1,z_2)$.
 
-2. If $x_1=y_1$ and $y_1=z_1$, then $x_1 \geq y_2$ and $y_2 \geq z_2$ then $x_2 \geq z_2$ and by that, this means that, $(x_1,x_2) \seccsum (z_1,z_2)$.
+2. If $x_1=y_1$ and $y_1=z_1$, then $x_1 \geq y_2$ and $y_2 \geq z_2$ then $x_2 \geq z_2$ and by that, this means that, $(x_1,x_2) \succsim (z_1,z_2)$.
 
-In both cases $(x_1,x_2) \succsum (z_1,z_2)$ holds. Therefore, the lexicorgraphic preference relation is transitive. 
+In both cases $(x_1,x_2) \succsim (z_1,z_2)$ holds. Therefore, the lexicorgraphic preference relation is transitive. 
 
 (ii)
 
@@ -55,7 +55,7 @@ For this sequence, as n approaches infinity $(x^n_1, x^n_2)$ converges to $(1,1)
 
 Since $(1,1) \succsim (1,0)$ when $x \approach \infty$ the $(1-1/n,1)=(1,1)$  
 
-Now, while $(1,1) \succsim (1,0)$ due to the first compononent of $(1,1)$ being greater than the first component of $(1,0)$, we also have $(1,0) \varnotsuccsim (1,1)$ because the second component that means $(1,0)<(1,1)$. 
+Now, while $(1,1) \succsim (1,0)$ due to the first compononent of $(1,1)$ being greater than the first component of $(1,0)$, we also have $(1,0)  \not \succsim (1,1)$ because the second component that means $(1,0)<(1,1)$. 
 
 This discontiniuity occours because the lexicographic preference relation $\succsim$ does not consider the second component until the first component is equal. 
 
