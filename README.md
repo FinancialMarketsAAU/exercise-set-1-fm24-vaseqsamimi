@@ -55,7 +55,7 @@ For this sequence, as n approaches infinity $(x^n_1, x^n_2)$ converges to $(1,1)
 
 Since $(1,1) \succsim (1,0)$ when $x \approach \infty$ the $(1-1/n,1)=(1,1)$  
 
-Now, while $(1,1) \succsim (1,0)$ due to the first compononent of $(1,1)$ being greater than the first component of $(1,0)$, we also have $(1,0) \nosuccsim (1,1)$ because the second component that means $(1,0)<(1,1)$. 
+Now, while $(1,1) \succsim (1,0)$ due to the first compononent of $(1,1)$ being greater than the first component of $(1,0)$, we also have $(1,0) \varnotsuccsim (1,1)$ because the second component that means $(1,0)<(1,1)$. 
 
 This discontiniuity occours because the lexicographic preference relation $\succsim$ does not consider the second component until the first component is equal. 
 
