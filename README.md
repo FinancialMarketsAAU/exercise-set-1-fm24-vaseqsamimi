@@ -24,8 +24,8 @@ Proposition (ii)
 To prove that the relation $\sim$ is reflexive, transitive, and symmetric: 
 
 \begin{enumerate}
-  \item The reflexitivity states that. $\forall x \in X, x \sim x$ holds. 
-  \item For the transitivity states that. If $x \sim y$ and $y \sim z$, then $x \sim z \forall x,y,z \in X$. 
+  \item The reflexitivity states that. $\Forall x \in X, x \sim x$ holds. 
+  \item For the transitivity states that. If $x \sim y$ and $y \sim z$, then $x \sim z \Forall x,y,z \in X$. 
   \item Lastly symmetry states that: If $x \sim y$, then $y \sim x \for all x,y \in X$
 \end{enumerate}
 
